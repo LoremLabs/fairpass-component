@@ -28,11 +28,19 @@ This will make the web component available to your web application. It can be ad
 
 The `<fair-pass>` web component can be customized, although the default component is likely good for most use cases.
 
-```html
-<fair-pass id="fairpass" scope="global" state="closed" pass=""
-acceptable="pass/fairpass, webmon/*, free/fairpass" threshold="0.1" mode="lax"
-simulate="false" disabled="false" hurrah="true" // "true" "false" "watermark"
-"splash" />
+```
+<fair-pass 
+ id="fairpass" 
+ scope="global" 
+ state="closed" 
+ pass=""
+ acceptable="pass/fairpass, webmon/*, free/fairpass" 
+ threshold="0.1" 
+ mode="lax"
+ simulate="false" 
+ disabled="false" 
+ hurrah="true" // "true" "false" "watermark" "splash" 
+ />
 ```
 
 ## Advanced Customization Events
