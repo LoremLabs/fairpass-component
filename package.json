@@ -1,6 +1,6 @@
 {
   "name": "@loremlabs/fairpass-component",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "browser": true,
   "type": "module",
   "files": [
@@ -37,12 +37,6 @@
     "@rollup/plugin-alias": "^3.1.2",
     "@rollup/plugin-node-resolve": "^13.0.4",
     "@rollup/plugin-typescript": "^8.2.3",
-    "@storybook/addon-actions": "^6.3.4",
-    "@storybook/addon-essentials": "^6.2.9",
-    "@storybook/addon-postcss": "^2.0.0",
-    "@storybook/addon-svelte-csf": "^1.1.0",
-    "@storybook/addon-viewport": "^6.3.4",
-    "@storybook/svelte": "^6.3.4",
     "@sveltejs/vite-plugin-svelte": "1.0.0-next.12",
     "@tailwindcss/forms": "^0.3.3",
     "@tailwindcss/line-clamp": "^0.2.1",
