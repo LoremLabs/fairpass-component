@@ -20,7 +20,8 @@
     "build:copy": "rimraf ../../static/dist && mkdir -p ../../static/dist && cp -r dist ../../static",
     "lint": "prettier -c .",
     "lint:fix": "prettier -w .",
-    "release": "np"
+    "release": "np",
+    "test": "echo nyet && exit 0"
   },
   "main": "dist/fair-pass.js",
   "module": "dist/fair-pass.js",
