@@ -1,6 +1,6 @@
 {
   "name": "@loremlabs/fairpass-component",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "browser": true,
   "type": "module",
   "files": [
