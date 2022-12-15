@@ -8,6 +8,9 @@ You can add it to your site either by adding the script tag directly:
 <!-- in head -->
 <script src="https://www.fairpass.co/dist/fair-pass.js" defer></script>
 
+<!-- or via cdn -->
+<script src="https://unpkg.com/@loremlabs/fairpass-component@latest/dist/fair-pass.js" defer></script>
+
 <!-- then somewhere in body -->
 <fair-pass></fair-pass>
 ```
